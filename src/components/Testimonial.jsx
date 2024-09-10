@@ -10,15 +10,14 @@ const Testimonial = () => {
                 <p className="primary-subheading">Testimonial</p>
                 <h1 className="primary-heading">What They Are Saying </h1>
                     <p className="primary-text">
-                        Lorem ipsum this os  usghvjlgkb;kjraseh;bs dslnivurhbgjkidhfnpm 
-                        dhuferaj;giorehj
+                    I recently dined at Foodie and was blown away by the exceptional service and mouthwatering dishes. From the moment I walked in, the atmosphere was warm and welcoming
                     </p>
 
             </div>
             <div className="testimonial-section-bottom">
                 <img src= {ProfilePic}               alt="" />
                 <p>
-                    lorem ipsum kfsuo;kjbgf
+                    FOODIE Customer
                 </p>
             
             <div className="testimonials-stars-container">
@@ -28,7 +27,7 @@ const Testimonial = () => {
                 <AiFillStar />
                 <AiFillStar/>
             </div>
-                <h2>John Doe</h2>
+                <h2>John Bryan</h2>
             </div>
         </div>
     );

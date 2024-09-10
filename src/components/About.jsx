@@ -14,15 +14,17 @@ const About = () => {
                     <div className="about-section-text-container">
                             <p className="primary-subheading">About</p>
                             <h1 className="primary-heading">
-                                Water Is An Important Part of A Balanced Diet
+                                We are Foodie 
                                  </h1>
                                 <p className="primary-text">
-                                    lorem ipsum just some text that i would like to put here
-                                    Hope it gets better. Hope Everything gets better
+                                    We are a dedicated team that aim to satisfy our customers cravings and needs
+                                    Your food is just an order away.
+                                   
                                 </p>
                                 <p className="primary-text">
-                                    Non  tincundant magma not always a choice. It was not my fault
-                                    I tried. I really did my best
+                                    Our ever improving delivery services are affordable and timely.
+                                                
+                        
                                 </p>
                                 <div className="about-buttons-container">
                                     <button className="secondary-button">Learn More </button>
